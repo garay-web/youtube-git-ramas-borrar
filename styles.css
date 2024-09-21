@@ -1,4 +1,20 @@
-*{
+html{
     background-color: darkblue;
     color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a{
+    color: darkorange;
+}
+
+a:hover{
+    color: orangered;
+}
+
+img{
+    width: 300px;
+    max-width: 100%;
+    margin-top: 50px;
 }
